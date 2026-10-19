@@ -1,0 +1,30 @@
+site_name: RPG Kingdom Design Bible
+site_description: Shared creative direction and approved game design decisions
+repo_url: https://github.com/Shashakar/RPG-Kingdom-Design-Bible
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: amber
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - content.code.copy
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+nav:
+  - Home: index.md
+  - Vision: vision.md
+  - World: world/index.md
+  - Characters: characters/index.md
+  - Gameplay: gameplay/index.md
+  - Interface: interface/index.md
+  - Decisions: decisions/index.md
+  - Contributing: contributing.md
