@@ -13,6 +13,10 @@ The selected direction is **Stylized Fantasy (Option A)**. It prioritizes recogn
 - **Asset compatibility:** Evaluate against the assets actually available in Rekindle-Claude; legacy RPG Kingdom art choices are candidates, not inherited approvals before inventing incompatible styles.
 - **Restoration:** Changes should be readable at gameplay distance, preserve location identity, and produce visible emotional contrast.
 
+## Restored settlement atmosphere — approved refinement
+
+**Grounded, but visibly alive.** Restored settlements should retain believable architecture, materials, and evidence of their history. Restoration brings back inhabitants, activity, and purpose—not simply brighter colors or greater saturation. Favor signs of daily life such as active workshops, residents at work, tended gardens, occupied homes, market activity, and selective warm lighting when appropriate to the scene. Avoid exaggerated cheerfulness, excessive decorative clutter, and a theme-park palette. This is a qualitative art-direction decision, not approval of specific lighting values, prop counts, or NPC schedules.
+
 ## Directional qualities to pursue
 
 1. Readable stylized forms and recognizable landmarks.
