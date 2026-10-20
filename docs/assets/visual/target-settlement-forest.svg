@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="850" viewBox="0 0 1440 850">
+<defs>
+<linearGradient id="sky" x2="0" y2="1"><stop stop-color="#8baec0"/><stop offset="1" stop-color="#e2d7b6"/></linearGradient>
+<linearGradient id="blight" x2="0" y2="1"><stop stop-color="#475062"/><stop offset="1" stop-color="#a19a91"/></linearGradient>
+<linearGradient id="ground" x2="0" y2="1"><stop stop-color="#74836b"/><stop offset="1" stop-color="#4c5d45"/></linearGradient>
+<g id="house"><path d="M0 62 L94 0 190 62 190 205 0 205Z" fill="#c6b59a" stroke="#54493f" stroke-width="5"/><path d="M-12 65 L94 -8 201 65" fill="none" stroke="#594a43" stroke-width="18"/><path d="M18 82v122M170 82v122M18 140h152" stroke="#7a5b42" stroke-width="11"/><rect x="74" y="137" width="42" height="68" fill="#62483c"/><rect x="130" y="88" width="31" height="34" fill="#e5b36a" stroke="#604d3d" stroke-width="5"/><rect x="31" y="88" width="30" height="34" fill="#e5b36a" stroke="#604d3d" stroke-width="5"/></g>
+<g id="tree"><path d="M-8 0L-12 130H12L8 0" fill="#715a43"/><circle cy="-14" r="50" fill="#536b48"/><circle cx="-33" cy="13" r="37" fill="#69845a"/><circle cx="35" cy="7" r="38" fill="#58784c"/></g>
+<g id="pine"><path d="M-8 95h16V0H-8" fill="#66543d"/><path d="M0 -80L-52 32H-29L-60 75H60L29 32H52Z" fill="#49644e"/></g>
+</defs>
+<rect width="1440" height="850" fill="#15202b"/>
+<text x="38" y="56" font-size="34" font-family="Georgia" fill="#f5eee2">REKINDLE · TARGET ENVIRONMENT COMPOSITION</text>
+<text x="40" y="88" font-size="17" font-family="sans-serif" fill="#c7d3d0">Stylized fantasy · grounded and inhabited · balanced detail · exploratory schematic, not production artwork</text>
+<g transform="translate(28 120)">
+<rect width="676" height="580" rx="12" fill="url(#sky)"/>
+<path d="M0 290L110 232 190 278 315 194 440 263 555 207 676 260V580H0" fill="#7f9279"/>
+<path d="M0 372Q170 315 310 375T676 345V580H0" fill="url(#ground)"/>
+<path d="M262 580L365 357 432 357 564 580Z" fill="#b7a98d"/><path d="M330 580L380 385 411 385 486 580" fill="#a09278"/>
+<use href="#house" transform="translate(55 279) scale(1.02)"/><use href="#house" transform="translate(426 290) scale(.84)"/>
+<use href="#tree" transform="translate(30 276) scale(.82)"/><use href="#tree" transform="translate(639 290) scale(.9)"/>
+<path d="M48 501h152M483 513h135" stroke="#9a8059" stroke-width="12" stroke-dasharray="30 8"/>
+<g fill="#d0a466"><circle cx="212" cy="475" r="7"/><circle cx="521" cy="466" r="7"/></g>
+<g fill="#38463c"><circle cx="252" cy="472" r="10"/><rect x="245" y="482" width="14" height="28"/><circle cx="588" cy="481" r="9"/><rect x="582" y="490" width="12" height="24"/></g>
+<rect x="0" y="0" width="676" height="50" fill="#192531" opacity=".85"/><text x="20" y="33" font-size="24" fill="white" font-family="Georgia">A · RESTORED SETTLEMENT</text>
+<rect y="510" width="676" height="70" fill="#192531" opacity=".92"/><text x="18" y="536" font-size="16" fill="white" font-family="sans-serif">Readable entrances · working homes · gardens · residents</text><text x="18" y="561" font-size="15" fill="#cdd9cf" font-family="sans-serif">Life through activity, not exaggerated saturation</text>
+</g>
+<g transform="translate(736 120)">
+<rect width="676" height="580" rx="12" fill="url(#sky)"/>
+<path d="M0 300L145 178 232 270 370 130 500 262 605 195 676 255V580H0" fill="#8195a0"/>
+<path d="M0 355Q150 300 286 358T676 318V580H0" fill="#73886b"/>
+<path d="M0 420Q145 365 280 422T676 380V580H0" fill="#4e6b52"/>
+<path d="M233 580Q342 477 295 419T368 332" fill="none" stroke="#b1a187" stroke-width="87"/>
+<path d="M233 580Q342 477 295 419T368 332" fill="none" stroke="#d0bea0" stroke-width="61"/>
+<use href="#pine" transform="translate(70 350) scale(1.65)"/><use href="#pine" transform="translate(155 337) scale(1.15)"/><use href="#pine" transform="translate(570 338) scale(1.7)"/><use href="#pine" transform="translate(645 349) scale(1.3)"/>
+<use href="#tree" transform="translate(440 333) scale(.78)"/>
+<g fill="#9e9d90"><path d="M75 511l34-40 53 10 21 35z"/><path d="M515 480l30-32 40 9 21 29z"/></g>
+<rect width="676" height="50" fill="#192531" opacity=".85"/><text x="20" y="33" font-size="24" fill="white" font-family="Georgia">B · FOREST ROAD</text>
+<rect y="510" width="676" height="70" fill="#192531" opacity=".92"/><text x="18" y="536" font-size="16" fill="white" font-family="sans-serif">Clear traversal · clustered vegetation · material variation</text><text x="18" y="561" font-size="15" fill="#cdd9cf" font-family="sans-serif">Landmarks and depth without obscuring the route</text>
+</g>
+<text x="32" y="745" font-size="20" fill="#e3c99d" font-family="Georgia">Approval scope</text><text x="180" y="745" font-size="17" fill="#e0e6e3" font-family="sans-serif">Composition principles only. Architecture, palette, materials and specific assets remain unapproved.</text>
+<text x="32" y="791" font-size="16" fill="#a8bbb8" font-family="sans-serif">Diagrammatic original vector reference · not a Unity screenshot · use Rekindle-Claude evidence for implementation comparison</text>
+</svg>
