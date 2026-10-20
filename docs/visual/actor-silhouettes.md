@@ -8,6 +8,10 @@ The current Rekindle-Claude characters are implementation placeholders and **mus
 
 
 
+![Exploratory character style comparison](../assets/visual/target-character-directions.svg)
+
+**Illustration status:** Original exploratory silhouette study, not finished character concepts or approved production art. See [Target Visual Identity](target-identity.md).
+
 ## Required comparison sheet
 
 | Role | Evidence to capture | Readability question |
