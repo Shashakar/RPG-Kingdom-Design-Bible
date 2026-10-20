@@ -1,6 +1,8 @@
-# Existing in-game evidence
+# Legacy RPG Kingdom in-game evidence
 
-**Classification: In-game evidence, not approved visual direction.**
+**Classification: Historical reference only, not the starting implementation or approved visual direction.**
+
+The current starting implementation is [Rekindle-Claude](rekindle-claude-baseline.md). The original RPG Kingdom repository may be retained as reference or replaced; that decision is open.
 
 These images are hosted in the main game repository, rather than copied into the Design Bible. They are versioned evidence and may not represent the latest scene. Captions identify their *recorded subject*, not an aesthetic quality judgment.
 
