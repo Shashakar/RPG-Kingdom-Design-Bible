@@ -2,6 +2,10 @@
 
 **Status: Exploratory concept-art brief.** No final scene, specific palette, model, or UI layout is approved by this page.
 
+![Exploratory stylized settlement and forest road reference](../assets/visual/target-settlement-forest.svg)
+
+**Illustration status:** Original schematic target reference; approved principles, not approved scene design. See [Target Visual Identity](target-identity.md).
+
 ## Creative baseline
 
 - **Style:** stylized fantasy; clear shapes and strong readability.
