@@ -1,8 +1,12 @@
 # Character and enemy silhouette references
 
-**Status: Playtest art selection recorded; permanent actor visual standard open.**
+**Status: Complete character visual redesign required; production actor standard open.**
 
-The initial Polysplit Games Base Characters are a practical **playtest** choice. Do not interpret their proportions or finish as the permanent art direction.
+The current Rekindle-Claude characters are implementation placeholders and **must not be treated as the desired character aesthetic**. Legacy RPG Kingdom's Polysplit selection is historical and not automatically adopted in Rekindle-Claude.
+
+> **Creative decision — October 19, 2026:** The current **Rekindle-Claude character visual style is not approved and requires a complete redesign**. Treat its current characters as implementation placeholders, not reference targets. The overall stylized-fantasy world direction does **not** approve the existing character proportions, faces, armor styling, silhouettes, or visual finish. Preserve working gameplay/animation infrastructure where practical, but assess new character art independently. The character concept boards are exploratory, not approved replacements.
+
+
 
 ## Required comparison sheet
 
