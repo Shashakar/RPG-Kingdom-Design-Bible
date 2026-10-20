@@ -6,6 +6,7 @@ This library turns creative direction into evidence-backed visual references. It
 
 ## Browse
 
+- [Approved starting art direction](art-direction.md): stylized fantasy, balanced atmosphere and environment detail.
 - [Existing game evidence](existing-game-evidence.md): source-linked images from the RPG Kingdom game repository.
 - [World composition](world-composition.md): environment reference targets and missing decisions.
 - [Restoration transformations](restoration-transformations.md): building, soul, and world-state comparison sheets.
