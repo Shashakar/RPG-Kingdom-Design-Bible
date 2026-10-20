@@ -7,6 +7,9 @@ This library turns creative direction into evidence-backed visual references. It
 ## Browse
 
 - [Approved starting art direction](art-direction.md): stylized fantasy, balanced atmosphere and environment detail.
+- [Rekindle-Claude starting baseline](rekindle-claude-baseline.md): primary implementation's real screenshots and provenance.
+- [Settlement and forest-road reference brief](settlement-forest-reference-brief.md): exploratory visual targets for approval.
+- [Legacy RPG Kingdom evidence](existing-game-evidence.md): historical comparison only.
 - [Existing game evidence](existing-game-evidence.md): source-linked images from the RPG Kingdom game repository.
 - [World composition](world-composition.md): environment reference targets and missing decisions.
 - [Restoration transformations](restoration-transformations.md): building, soul, and world-state comparison sheets.

@@ -10,7 +10,7 @@ The selected direction is **Stylized Fantasy (Option A)**. It prioritizes recogn
 
 - **World mood: balanced.** Settlements may feel welcoming, wilderness adventurous, and damaged areas threatening. The atmosphere should vary intentionally by region and state.
 - **Environment detail: balanced.** Use natural vegetation grouping, distinct ground and structure materials, clear paths, and environmental storytelling without unnecessary clutter.
-- **Asset compatibility:** Evaluate against the approved Townsmith, Fantasy Adventure Environment, selected MysticDungeon content, and existing character/animation sources before inventing incompatible styles.
+- **Asset compatibility:** Evaluate against the assets actually available in Rekindle-Claude; legacy RPG Kingdom art choices are candidates, not inherited approvals before inventing incompatible styles.
 - **Restoration:** Changes should be readable at gameplay distance, preserve location identity, and produce visible emotional contrast.
 
 ## Directional qualities to pursue
@@ -29,6 +29,10 @@ The selected direction is **Stylized Fantasy (Option A)**. It prioritizes recogn
 - Permanent character models, armor proportions, or boss designs.
 - Exact HUD layout, frame art, iconography, or typography.
 - Any individual scene in the generated comparison board as a production composition.
+
+## Implementation baseline
+
+**Rekindle-Claude**, branch `rekindle-vertical-slice`, is the starting implementation. The older RPG Kingdom repository is optional reference material and may be replaced or retained; its asset strategy and playtest art are **not** automatically binding on Rekindle-Claude. Review [Claude baseline evidence](rekindle-claude-baseline.md) before applying any legacy art selection.
 
 ## Next review evidence
 
