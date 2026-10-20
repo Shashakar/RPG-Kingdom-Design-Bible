@@ -24,10 +24,18 @@ nav:
   - Vision: vision.md
   - World:
       - Overview: world/index.md
+      - Restoration: world/restoration.md
+      - Environment Guidelines: world/environment-guidelines.md
       - Visual Direction Worklist: world/visual-direction-worklist.md
-  - Characters: characters/index.md
-  - Gameplay: gameplay/index.md
-  - Interface: interface/index.md
+  - Characters:
+      - Overview: characters/index.md
+      - Soul-State Guide: characters/soul-state-guide.md
+  - Gameplay:
+      - Overview: gameplay/index.md
+      - Vertical Slice: gameplay/vertical-slice.md
+  - Interface:
+      - Overview: interface/index.md
+      - UX Patterns: interface/ux-patterns.md
   - Decisions:
       - Overview: decisions/index.md
       - Asset Standards: decisions/asset-standards.md
