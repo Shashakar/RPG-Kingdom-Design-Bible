@@ -35,6 +35,7 @@ nav:
   - Gameplay:
       - Overview: gameplay/index.md
       - Vertical Slice: gameplay/vertical-slice.md
+      - First-Session Journey: gameplay/first-session-journey.md
       - Controls and Targeting: gameplay/controls-targeting.md
       - Progression: gameplay/progression.md
       - Cooperative Play: gameplay/cooperative-play.md
