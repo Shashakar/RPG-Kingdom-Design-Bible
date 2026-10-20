@@ -12,7 +12,7 @@
 
 ## Reference A: settlement, restored
 
-**Visual target:** player-height, walkable street with recognizable civic/crafting/residential zones, varied rooflines, layered stone-and-timber materials, vegetation integrated into the architecture, and legible building entrances. Warmth comes from inhabited activity and controlled lighting, not indiscriminate saturation.
+**Visual target:** player-height, walkable street with recognizable civic/crafting/residential zones, varied rooflines, layered stone-and-timber materials, vegetation integrated into the architecture, and legible building entrances. **Approved atmosphere refinement:** grounded, but visibly alive. Warmth comes from believable inhabited activity—workshops, homes, gardens, residents, trade, and controlled lighting—not indiscriminate saturation. Restoration should communicate the return of daily life and purpose rather than a simple color-grade swap.
 
 **Avoid:** over-detailed surfaces, excessive flowers, uniform facades, repetitive asset placement, or an unplayable postcard composition.
 
