@@ -6,6 +6,7 @@ This library turns creative direction into evidence-backed visual references. It
 
 ## Browse
 
+- [Target Visual Identity](target-identity.md): embedded aspirational environment and character reference images, clearly separated from current implementation.
 - [Approved starting art direction](art-direction.md): stylized fantasy, balanced atmosphere and environment detail.
 - [Rekindle-Claude starting baseline](rekindle-claude-baseline.md): primary implementation's real screenshots and provenance.
 - [Settlement and forest-road reference brief](settlement-forest-reference-brief.md): exploratory visual targets for approval.
