@@ -22,9 +22,14 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Vision: vision.md
-  - World: world/index.md
+  - World:
+      - Overview: world/index.md
+      - Visual Direction Worklist: world/visual-direction-worklist.md
   - Characters: characters/index.md
   - Gameplay: gameplay/index.md
   - Interface: interface/index.md
-  - Decisions: decisions/index.md
+  - Decisions:
+      - Overview: decisions/index.md
+      - Asset Standards: decisions/asset-standards.md
+      - Collaboration Boundaries: decisions/collaboration-boundary.md
   - Contributing: contributing.md
