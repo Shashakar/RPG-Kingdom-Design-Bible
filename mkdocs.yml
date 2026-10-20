@@ -25,6 +25,7 @@ nav:
   - World:
       - Overview: world/index.md
       - Restoration: world/restoration.md
+      - Restoration Presentation: world/restoration-presentation.md
       - Environment Guidelines: world/environment-guidelines.md
       - Infrastructure and Travel: world/infrastructure.md
       - Future Simulation: world/future-simulation.md
@@ -32,6 +33,7 @@ nav:
   - Characters:
       - Overview: characters/index.md
       - Soul-State Guide: characters/soul-state-guide.md
+      - Actor Art Standard: characters/actor-art-standard.md
   - Gameplay:
       - Overview: gameplay/index.md
       - Vertical Slice: gameplay/vertical-slice.md
@@ -48,5 +50,10 @@ nav:
       - Asset Standards: decisions/asset-standards.md
       - Collaboration Boundaries: decisions/collaboration-boundary.md
       - Creative Quality: decisions/creative-quality.md
+      - Decision Provenance: decisions/decision-provenance.md
+      - System Capability Map: decisions/system-capability-map.md
+      - Architecture Design Implications: decisions/architecture-design-implications.md
+      - Framework Evaluations: decisions/framework-evaluations.md
+      - Visual Evidence: decisions/visual-evidence.md
       - Source Coverage Audit: decisions/source-audit.md
   - Contributing: contributing.md
