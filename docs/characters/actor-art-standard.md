@@ -1,6 +1,6 @@
 # Actor art standard
 
-**Status: Approved initial playtest source; permanent production identity unresolved.**
+**Status: Existing character art rejected as permanent direction; complete redesign required.**
 
 The locally imported **Polysplit Games Base Characters** source is approved for the initial vertical-slice implementation and playtest, including the BaseMale humanoid rig, recolor materials, and matching SwordBasic_A presentation weapon. This does **not** approve Polysplit as the permanent character style or authorize a character customization system.
 

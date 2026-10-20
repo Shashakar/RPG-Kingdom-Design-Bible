@@ -26,6 +26,8 @@ The selected direction is **Stylized Fantasy (Option A)**. It prioritizes recogn
 5. Clear world-state progression without requiring UI to explain every change.
 6. Lighting and color that reinforce local narrative rather than enforcing one global mood.
 
+> **Creative decision — October 19, 2026:** The current **Rekindle-Claude character visual style is not approved and requires a complete redesign**. Treat its current characters as implementation placeholders, not reference targets. The overall stylized-fantasy world direction does **not** approve the existing character proportions, faces, armor styling, silhouettes, or visual finish. Preserve working gameplay/animation infrastructure where practical, but assess new character art independently. The character concept boards are exploratory, not approved replacements.
+
 ## Explicitly not yet approved
 
 - Specific color values, lighting presets, shader treatment, or texture-resolution rules.
