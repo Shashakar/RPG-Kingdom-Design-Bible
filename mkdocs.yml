@@ -26,6 +26,8 @@ nav:
       - Overview: world/index.md
       - Restoration: world/restoration.md
       - Environment Guidelines: world/environment-guidelines.md
+      - Infrastructure and Travel: world/infrastructure.md
+      - Future Simulation: world/future-simulation.md
       - Visual Direction Worklist: world/visual-direction-worklist.md
   - Characters:
       - Overview: characters/index.md
@@ -33,11 +35,17 @@ nav:
   - Gameplay:
       - Overview: gameplay/index.md
       - Vertical Slice: gameplay/vertical-slice.md
+      - Controls and Targeting: gameplay/controls-targeting.md
+      - Progression: gameplay/progression.md
+      - Cooperative Play: gameplay/cooperative-play.md
   - Interface:
       - Overview: interface/index.md
       - UX Patterns: interface/ux-patterns.md
+      - Character Presentation: interface/character-presentation.md
   - Decisions:
       - Overview: decisions/index.md
       - Asset Standards: decisions/asset-standards.md
       - Collaboration Boundaries: decisions/collaboration-boundary.md
+      - Creative Quality: decisions/creative-quality.md
+      - Source Coverage Audit: decisions/source-audit.md
   - Contributing: contributing.md
